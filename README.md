@@ -4,6 +4,6 @@ A simple python project on employee management implementing basic CRUD operation
 # FEATURES
 1. Creating an employee
 2. Reading Employees information
-3. Reading a specific employee information
+3. Reading a specific employee's information
 4. Updating employee information
 5. Deleting an employee's information
